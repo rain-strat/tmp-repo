@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"demomodule","Source":"git::https://github.com/rain-strat/tmp-repo.git?ref=development","Dir":".terraform/modules/demomodule"}]}
